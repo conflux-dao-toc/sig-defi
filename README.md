@@ -1,5 +1,5 @@
 # sig-defi
-Conflux DeFI技术兴趣小组
+Conflux DeFi应用兴趣小组
 
 目前市场出现的几类产品，
 
@@ -52,8 +52,10 @@ ChainLink:https://chain.link/
 Nest: https://nestprotocol.org/
 
 二层网络:
+
 Celer:https://www.celer.network/
 
 预测市场：
+
 Augur:https://www.augur.net/
 
