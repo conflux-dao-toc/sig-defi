@@ -1,61 +1,36 @@
 # sig-defi
-Conflux DeFi应用兴趣小组
 
-目前市场出现的几类产品，
+Defi兴趣小组成立：由张元杰于2020/6/19号成立
 
+Defi兴趣小组成员基本规则：
 
+1. 希望承担研究、宣传、组织工作的人请提申请
 
-去中化稳定币：
+2. 个人的工作纪录请自发记录在自己提的issue下方
 
-DAI: MakerDAO https://makerdao.com/en/
+3. 长期没有贡献的小组成员会被劝退回到普通社区，也可以自己申请退出
 
-借贷:
+Defi兴趣小组活动日常流程：
 
-Compound: https://compound.finance/
+1. 由小组组内讨论确定分享议题
 
-AAVE: https://aave.com/
+2. 由小组组长/专题带头人确定工作内容划分
 
-自动做市商(AMM)
+3. 由小组成员自由认领工作内容
 
-Uniswap: https://uniswap.exchange/swap
+4. 由由小组组长/专题带头人牵头整理组织
 
-Curve: http://curve.finance/
+5. 由由小组组长/专题带头人面向全员社区分享
 
-Dforce Swap: https://trade.dforce.network/
+6. 分享内容精华纪要沉淀于github，并定期回顾更新
 
-Bancor: https://www.bancor.network/
+Defi小组覆盖内容：
 
-去中心化交易所：
+1. Defi产品的基本使用原理
 
-dydx:https://dydx.exchange/
+2. Defi产品的代码研究
 
-Looprin: https://loopring.org/
+3. Defi产品的链上数据量化分析
 
-IDEX:https://idex.market/
-
-Tokonlon: Imtoken
-
-衍生品：
-
-Synthetic: https://www.synthetix.io/
-
-流动性聚合:
-
-Kyber: https://kyber.network/
-
-1inch: https://1inch.exchange/
-
-预言机：
-
-ChainLink:https://chain.link/
-
-Nest: https://nestprotocol.org/
-
-二层网络:
-
-Celer:https://www.celer.network/
-
-预测市场：
-
-Augur:https://www.augur.net/
+4. Defi平台代币的投资价值
 
